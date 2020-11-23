@@ -1,0 +1,9 @@
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\bin\Debug\Carnet adresses.exe.config
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\bin\Debug\Carnet adresses.exe
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\bin\Debug\Carnet adresses.pdb
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet adresses.csprojAssemblyReference.cache
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet_adresses.Form1.resources
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet_adresses.Properties.Resources.resources
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet adresses.csproj.GenerateResource.cache
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet adresses.exe
+C:\Users\elena\OneDrive - Cégep de La Pocatière\Session 2\Structure de données\TP3\Carnet adresses\Carnet adresses\obj\Debug\Carnet adresses.pdb
